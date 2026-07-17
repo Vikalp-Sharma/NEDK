@@ -23,11 +23,8 @@
 [![Display](https://img.shields.io/badge/320×180-Resolution-8A2BE2?style=flat-square)](#)
 [![60 FPS](https://img.shields.io/badge/60-FPS-00E676?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-No--Copy-B900F8?style=flat-square)](./LICENSE)
-
 </div>
-
 <br>
-
 ## Overview
 
 **Neon Runner** is a self-contained, single-file endless runner built
