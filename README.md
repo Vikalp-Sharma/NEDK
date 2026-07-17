@@ -28,21 +28,6 @@
 
 <br>
 
-<div align="center">
-
-```
-┌────────────────────────────────────────────┐
-│   ▲  tap upper half            JUMP         │
-│                                              │
-│        ◇      ▲▲▲      ┃┃      ▶▶▶          │
-│   >==o    ▲▲▲▲▲▲▲ ─────┃┃──── ▶▶▶▶▶▶  ▓▓▓▓  │
-│                                              │
-│   ▼  tap lower half            DUCK         │
-└────────────────────────────────────────────┘
-```
-
-</div>
-
 ## Overview
 
 **Neon Runner** is a self-contained, single-file endless runner built
