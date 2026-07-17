@@ -17,11 +17,12 @@
 
 ### an endless runner for a 3.2" Raspberry Pi touchscreen
 
-[![Made with Pygame](https://img.shields.io/badge/made%20with-pygame-05EAD1?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0217)](https://www.pygame.org/)
-[![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-FF2AA2?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=0a0217)](https://www.raspberrypi.com/)
-[![Python](https://img.shields.io/badge/python-3.x-FFDE05?style=for-the-badge&logo=python&logoColor=0a0217&labelColor=0a0217)](https://www.python.org/)
-[![Resolution](https://img.shields.io/badge/display-320x180-1EF864?style=for-the-badge&labelColor=0a0217)](#)
-[![License](https://img.shields.io/badge/license-no--copy-B900F8?style=for-the-badge&labelColor=0a0217)](./LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.x-05EAD1?style=flat-square&logo=pygame)](https://www.pygame.org/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Touchscreen-C51A4A?style=flat-square&logo=raspberrypi)](https://www.raspberrypi.com/)
+[![Display](https://img.shields.io/badge/320×180-Resolution-8A2BE2?style=flat-square)](#)
+[![60 FPS](https://img.shields.io/badge/60-FPS-00E676?style=flat-square)](#)
+[![License](https://img.shields.io/badge/License-No--Copy-B900F8?style=flat-square)](./LICENSE)
 
 </div>
 
